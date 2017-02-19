@@ -1,0 +1,90 @@
+/*table of contents
+1.reset
+2...
+3...
+*/
+
+  *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+
+  /* this is the reset, do this when you start a new project as it helps with browser */
+
+
+  /*Universal styles*/
+
+  body{
+    font-family: 'Oswald', sans-serif;
+    color:#333333;
+    font-size: 1.3rem;
+  }
+  h1,h2,h3,h4{
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  h1{
+    font-size: 5.0rem;
+  }
+  section,footer{
+    padding: 10vh 10vh;
+  }
+  .no-padding{
+    padding: 0;
+  }
+
+  .featured{
+    background-color: #505055
+  }
+
+  .centered{
+    text-align:center;
+  }
+  .white-box {
+    background-color: white;
+    padding: 5%
+  }
+
+/*-------Header----------------*/
+  .top-banner{
+    min-height:100vh;
+  background-image: url(../images/giphy.gif);
+  background-size:cover;
+  background-attachment: fixed;
+  color:#2c3e50;
+  }
+
+
+
+/*-------about----------------*/
+
+
+
+
+
+/*-------Header----------------*/
+
+
+
+
+
+
+/*-------Skillsr----------------*/
+
+
+
+
+/*-------Experience----------------*/
+
+
+
+
+
+/*-------Map----------------*/
+
+
+
+
+
+
+/*-------Footer----------------*/
